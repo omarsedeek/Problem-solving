@@ -29,5 +29,3 @@ list1.addNum(0)
 
 list1.findMedain()
 
-help(MedianFinder)
-
