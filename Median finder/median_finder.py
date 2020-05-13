@@ -2,7 +2,7 @@ import math
 
 class MedianFinder:
 
-  '''parameter: list of naumbers
+  '''parameters: list of naumbers
    output: Median of this list'''
   
 
