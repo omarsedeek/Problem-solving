@@ -1,4 +1,6 @@
 class Solution:
+    '''takes an array of zeros and ones and returt highest number of consecutive ones in the array '''
+
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
         all_counts = []
         count = 0
